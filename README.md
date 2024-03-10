@@ -1,3 +1,3 @@
 # YumXpress-Way
-Java based food ordering Application
+Java based food ordering Application. 
 Author- Anushka Garge
